@@ -1,15 +1,26 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale                   : "en"
+title                    : "matejk0 Portfolio"
+title_separator          : "-"
+name                     : "Cynthia Rich"
+description              : "An amazing website."
+url                      : "https://crichID.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : crichID/crichID.github.io
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 
 # social links
 twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: jekyll-theme-minimal
+>>>>>
