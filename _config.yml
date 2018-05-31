@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "crichID Portfolio"
+title                    : "matejk0 Portfolio"
 title_separator          : "-"
 name                     : "Cynthia Rich"
 description              : "An amazing website."
@@ -24,4 +24,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minimal
