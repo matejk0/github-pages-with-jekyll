@@ -1,3 +1,4 @@
+===
 ---
 layout: post
 title: Blogging Like a Hacker
@@ -6,6 +7,7 @@ title: Blogging Like a Hacker
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
+=====
 description: what the duck .
 ......
 # social links
@@ -14,6 +16,6 @@ github_username:  your-github-handle
 -----
 show_excerpts: true # set to false to remove excerpts on the homepage
 ....
-theme: matejko
+theme: minimal
 .......
 =======
